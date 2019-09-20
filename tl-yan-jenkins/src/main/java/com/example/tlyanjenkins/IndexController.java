@@ -8,7 +8,7 @@ public class IndexController {
 
     @GetMapping("/home")
     public String index()  {
-        return "up Jenkins";
+        return "up Jenkins...";
     }
 
 
